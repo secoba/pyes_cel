@@ -1,0 +1,5 @@
+venv/
+dist/
+.idea/
+*.pyc
+pyes_cel.egg-info/
